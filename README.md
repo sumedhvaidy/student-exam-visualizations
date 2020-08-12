@@ -12,8 +12,11 @@
 # Source of Dataset: https://www.kaggle.com/spscientist/students-performance-in-exams
 
 # Steps to run the Web Application Visualization:
-* Download npm https://www.npmjs.com/package/download
-* Install React on Npm https://reactjs.org/ by typing in npm install react
-* Type in cd student-exam-webapp
+* Go to your command line
+* Clone this folder into a directory of your choice by typing in git clone https://github.com/sumedhvaidy/student-exam-visualizations/
+* Download npm onto your computer https://www.npmjs.com/package/download
+* Go to command line and type in cd student-exam-visualizations
+* Go to command line and type in cd student-exam-webapp
+* Install React on Npm https://reactjs.org/ by typing in npm install react into command line
 * Now type in npm start 
-* And then run the web app by typing in npm run.
+* At this point, you should be able to run the web-application. If you cannot, try typing in command line npm run 
