@@ -1,5 +1,7 @@
 # student-exam-visualizations
 
+[Link to document explaining project overview](https://docs.google.com/document/d/1aGDwxv7KMaGR-JdJvPrLkRDcdgDAcZ9M4gY7Uvo3fPE/edit?usp=sharing)
+
 # Created by:
 * Sumedh Vaidyanathan (Discord Link: Sumedh#5581) 
 * Shouri Addepally (Discord Link: shosho#7626) 
@@ -8,7 +10,6 @@
 * Sidharth Rajaram (Discord Link: juliusboomi#8819)
 
 # Source of Dataset: https://www.kaggle.com/spscientist/students-performance-in-exams
-# Technologies Leveraged to create the application: React.js, Matplotlib, Pandas, Numpy
 
 # Steps to run the Web Application Visualization:
 * Download npm https://www.npmjs.com/package/download
